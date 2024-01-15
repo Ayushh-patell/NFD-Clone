@@ -1,6 +1,6 @@
 # NFD Website Clone
 
-> A clone of the NFD (Replace with the actual website name) website with full functionality, design, and responsiveness, built using React and Tailwind CSS.
+> A clone of the NFD website with full functionality, design, and responsiveness, built using React and Tailwind CSS.
 
 ---
 
